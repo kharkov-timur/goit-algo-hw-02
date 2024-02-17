@@ -30,4 +30,5 @@ To run each program, Python version 3.x must be installed.
 Clone the repository and execute the scripts from the terminal or command line:
 
 `python task1_service_center.py`
+
 `python task2_palindrome_checker.py`
